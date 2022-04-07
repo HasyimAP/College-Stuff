@@ -1,0 +1,4 @@
+buka dengan vscode atau IDE lainnya yg support bahasa python
+statistika.py
+-> untuk menghitung mean, modus, quartil 1-3, Mid-Range, Mid-Hinge, Range, IQR, SIQR, var, standar deviasi
+setelah menginput semua data, ketik 0 lalu enter
