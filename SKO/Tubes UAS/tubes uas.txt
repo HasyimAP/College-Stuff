@@ -1,0 +1,7 @@
+merancang jaringan
+merancang dari sentral ke gedung (FTTB)
+sentral>ODC>ODP>Roset
+ODP berdasarkan presensi (38)
+jangan lupa tinggi lantai
+jarak max FTTX 20 km
+munculkan grafik SNR, Q, BER
