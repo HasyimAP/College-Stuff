@@ -1,0 +1,29 @@
+int x;
+float fl;
+String str;
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode(A0, INPUT);
+}
+
+void loop()
+{
+  x = analogRead(A0);
+  fl = float(x)/1023*5.0;
+  if (fl <= 1.51){
+    str = "V --> LOW";
+  }
+  else if (fl > 1.50 && fl <= 3.50){
+    str = "V --> MEDIUM";
+  }
+  else {
+    str = "V --> HIGH";
+  }
+  Serial.print("Tegangan = ");
+  Serial.print(fl);
+  Serial.print(str);
+  Serial.print("\n");
+  delay(100);
+}

@@ -1,0 +1,9 @@
+UAS
+
+pakai tinkercad
+lebih ke design dan coding
+gambaran:
+akan disuruh untuk membuat rangkaian menggunakan arduino uno dengan fungsi yg diminta
+dalam waktu 2 jam
+contoh model soal uas nya kyk pertemuan minggu 13
+ga ada pake platform iot
