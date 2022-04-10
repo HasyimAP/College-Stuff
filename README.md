@@ -1,6 +1,8 @@
 # College Stuff
  
-All lecture materials and assignments that I did while I was studying in the Department of Telecommunication Engineering, Telkom University. Mostly in Indonesian. There are also some of my friend's stuffs, but most of items in here are mine. Feel free to check and download all the items here for your study. Hopefully can help you.
+All lecture materials and assignments that I did while I was studying in the Department of Telecommunication Engineering, Telkom University. The language used here mostly in Indonesian. There are also some of my friend's stuffs, but most of items in here are mine. Feel free to check and download all the items here for your study. 
+
+Hopefully can help you.
 
 ***
 This is all the subject that I've taken during my study in Telkom University
