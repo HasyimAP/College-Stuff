@@ -1,0 +1,63 @@
+{
+    "parameters": [
+        {
+            "descr": "tebal konduktor",
+            "expr": "0.51",
+            "name": "t",
+            "value": "0.51"
+        },
+        {
+            "descr": "tebal dielektrik",
+            "expr": "21.2",
+            "name": "h",
+            "value": "21.2"
+        },
+        {
+            "descr": "panjang slits",
+            "expr": "8.5",
+            "name": "g",
+            "value": "8.5"
+        },
+        {
+            "descr": "panjang patch",
+            "expr": "101.64-2-2",
+            "name": "lp",
+            "value": "97.64"
+        },
+        {
+            "descr": "panjang ground",
+            "expr": "133.86+11",
+            "name": "lg",
+            "value": "144.86"
+        },
+        {
+            "descr": "lebar patch",
+            "expr": "145-5-5",
+            "name": "wp",
+            "value": "135"
+        },
+        {
+            "descr": "lebar ground",
+            "expr": "164.92+20",
+            "name": "wg",
+            "value": "184.92"
+        },
+        {
+            "descr": "frekuensi",
+            "expr": "1.27",
+            "name": "f",
+            "value": "1.27"
+        },
+        {
+            "expr": "6.216",
+            "name": "wf",
+            "value": "6.216"
+        },
+        {
+            "expr": "4.38",
+            "name": "k",
+            "value": "4.38"
+        }
+    ],
+    "version": 1
+}

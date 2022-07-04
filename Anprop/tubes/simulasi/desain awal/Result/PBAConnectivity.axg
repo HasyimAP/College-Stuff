@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\component1:feeder" id="1"/>
+    <Object name="Components\component1:ground" id="2"/>
+    <Object name="Components\component1:patch" id="3"/>
+    <Object name="Components\component1:substrat atas" id="4"/>
+    <Object name="Components\component1:substrat bawah" id="5"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Group component1 feeder" type="Connectivity" ID="1">
+      <Item name="Components\component1:feeder" type="solid" id="1"/>
+    </Group>
+    <Group name="Group component1 ground" type="Connectivity" ID="1">
+      <Item name="Components\component1:ground" type="solid" id="2"/>
+    </Group>
+    <Group name="Group component1 patch" type="Connectivity" ID="1">
+      <Item name="Components\component1:patch" type="solid" id="3"/>
+    </Group>
+    <Group name="Isolators" type="Isolator" ID="1">
+      <Item name="Components\component1:substrat atas" type="solid" id="4"/>
+      <Item name="Components\component1:substrat bawah" type="solid" id="5"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>

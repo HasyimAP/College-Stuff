@@ -1,0 +1,11 @@
+!data_id
+
+!port 1
+  box -3.74265 3.74265 -23.7205 -23.7205 0.035 3.27
+  direction y+
+  !shield electric
+
+# job excitation definitions
+(include) Model.job.tlm-inc
+
+(include) Model.settings.tlm-inc

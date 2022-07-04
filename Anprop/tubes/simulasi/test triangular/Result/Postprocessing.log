@@ -1,0 +1,19 @@
+Post-processing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based post-processing started at: 04:04 PM Sunday, 05. June 2022
+
+  Evaluating 'Gain (IEEE) at const phi=0 for 5x5 array (array factor)': 6 s
+
+  Total time: 7 s  ( = 0 h, 0 m, 7 s )
+
+Template based post-processing finished at: 04:04 PM Sunday, 05. June 2022
+----------------------------------------------------------------------------------------

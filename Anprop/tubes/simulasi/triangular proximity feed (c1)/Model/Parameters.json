@@ -1,0 +1,53 @@
+{
+    "parameters": [
+        {
+            "descr": "alas patch segitiga",
+            "expr": "39.6442256417575",
+            "name": "a",
+            "value": "39.6442256417575"
+        },
+        {
+            "descr": "tinggi patch segitiga",
+            "expr": "(a^2-(a/2)^2)^0.5",
+            "name": "t",
+            "value": "34.3329065191244"
+        },
+        {
+            "descr": "sisi horizontal (x) ground, substrat",
+            "expr": "6*hs+a",
+            "name": "xs",
+            "value": "49.2442256417575"
+        },
+        {
+            "descr": "tebal patch, ground, feeder",
+            "expr": "0.035",
+            "name": "hp",
+            "value": "0.035"
+        },
+        {
+            "descr": "tebal substrat",
+            "expr": "1.6",
+            "name": "hs",
+            "value": "1.6"
+        },
+        {
+            "descr": "lebar feeder",
+            "expr": "(Lf*0.2)",
+            "name": "Wf",
+            "value": "3.3633034563387"
+        },
+        {
+            "descr": "sisi vertikal (y) ground, substrat",
+            "expr": "6*hs+t",
+            "name": "ys",
+            "value": "43.9329065191244"
+        },
+        {
+            "descr": "panjang feeder",
+            "expr": "(ys/2-t*0.15)",
+            "name": "Lf",
+            "value": "16.8165172816935"
+        }
+    ],
+    "version": 1
+}

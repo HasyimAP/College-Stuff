@@ -1,0 +1,53 @@
+{
+    "parameters": [
+        {
+            "descr": "sisi horizontal (x) ground",
+            "expr": "16.298",
+            "name": "xg",
+            "value": "16.298"
+        },
+        {
+            "descr": "sisi vertikal (y) ground",
+            "expr": "14.004",
+            "name": "yg",
+            "value": "14.004"
+        },
+        {
+            "descr": "sisi horizontal (x) patch",
+            "expr": "7.298",
+            "name": "xp",
+            "value": "7.298"
+        },
+        {
+            "descr": "sisi vertikal (y) patch",
+            "expr": "5.004",
+            "name": "yp",
+            "value": "5.004"
+        },
+        {
+            "descr": "lebar feeder",
+            "expr": "0.485",
+            "name": "Wf",
+            "value": "0.485"
+        },
+        {
+            "descr": "panjang feeder",
+            "expr": "3.265",
+            "name": "Lf",
+            "value": "3.265"
+        },
+        {
+            "descr": "tebal konduktor (ground, patch, feeder)",
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "descr": "tebal substrat",
+            "expr": "0.8",
+            "name": "h",
+            "value": "0.8"
+        }
+    ],
+    "version": 1
+}

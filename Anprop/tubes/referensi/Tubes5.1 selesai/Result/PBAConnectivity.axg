@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CSTAuxiliaryGeometry version="20170928">
+  <Objects>
+    <Object name="Components\component1:groundplane" id="1"/>
+    <Object name="Components\component1:patch" id="2"/>
+    <Object name="Components\component1:substrat" id="3"/>
+  </Objects>
+  <Materials/>
+  <Groups>
+    <Group name="Group component1 groundplane" type="Connectivity" ID="1">
+      <Item name="Components\component1:groundplane" type="solid" id="1"/>
+    </Group>
+    <Group name="Group component1 patch" type="Connectivity" ID="1">
+      <Item name="Components\component1:patch" type="solid" id="2"/>
+    </Group>
+    <Group name="Isolators" type="Isolator" ID="1">
+      <Item name="Components\component1:substrat" type="solid" id="3"/>
+    </Group>
+  </Groups>
+</CSTAuxiliaryGeometry>
