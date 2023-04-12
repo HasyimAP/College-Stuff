@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XG5GNRStudy>
+ <Techno>4G/5G</Techno>
+ <Name>5G NR: Downlink Coverage 0</Name>
+ <Display>
+  <minZoom>500</minZoom>
+  <maxZoom>20000000</maxZoom>
+  <visible>Yes</visible>
+  <Type>ByIntervals</Type>
+  <FieldSelector>8000002f</FieldSelector>
+  <FieldDesc>
+   <FieldId>8000002f</FieldId>
+   <FieldTitle>SS-RSRP Level (DL) (dBm)</FieldTitle>
+  </FieldDesc>
+  <Opacity>50</Opacity>
+  <Items>
+   <Item>
+    <Min>-44</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-44</Legend>
+    <MainColor>255 0 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-45</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-45</Legend>
+    <MainColor>254 12 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-46</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-46</Legend>
+    <MainColor>254 24 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-47</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-47</Legend>
+    <MainColor>254 30 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-48</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-48</Legend>
+    <MainColor>254 42 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-49</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-49</Legend>
+    <MainColor>254 54 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-50</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-50</Legend>
+    <MainColor>254 67 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-51</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-51</Legend>
+    <MainColor>254 73 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-52</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-52</Legend>
+    <MainColor>254 85 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-53</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-53</Legend>
+    <MainColor>254 97 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-54</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-54</Legend>
+    <MainColor>254 109 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-55</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-55</Legend>
+    <MainColor>254 115 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-56</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-56</Legend>
+    <MainColor>254 127 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-57</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-57</Legend>
+    <MainColor>254 139 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-58</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-58</Legend>
+    <MainColor>254 151 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-59</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-59</Legend>
+    <MainColor>254 163 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-60</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-60</Legend>
+    <MainColor>254 169 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-61</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-61</Legend>
+    <MainColor>254 181 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-62</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-62</Legend>
+    <MainColor>254 194 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-63</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-63</Legend>
+    <MainColor>254 206 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-64</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-64</Legend>
+    <MainColor>254 212 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-65</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-65</Legend>
+    <MainColor>254 224 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-66</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-66</Legend>
+    <MainColor>254 236 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-67</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-67</Legend>
+    <MainColor>254 248 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-68</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-68</Legend>
+    <MainColor>254 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-69</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-69</Legend>
+    <MainColor>248 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-70</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-70</Legend>
+    <MainColor>236 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-71</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-71</Legend>
+    <MainColor>224 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-72</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-72</Legend>
+    <MainColor>212 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-73</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-73</Legend>
+    <MainColor>206 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-74</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-74</Legend>
+    <MainColor>194 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-75</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-75</Legend>
+    <MainColor>181 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-76</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-76</Legend>
+    <MainColor>169 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-77</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-77</Legend>
+    <MainColor>163 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-78</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-78</Legend>
+    <MainColor>151 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-79</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-79</Legend>
+    <MainColor>139 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-80</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-80</Legend>
+    <MainColor>127 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-81</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-81</Legend>
+    <MainColor>115 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-82</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-82</Legend>
+    <MainColor>109 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-83</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-83</Legend>
+    <MainColor>97 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-84</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-84</Legend>
+    <MainColor>85 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-85</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-85</Legend>
+    <MainColor>73 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-86</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-86</Legend>
+    <MainColor>67 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-87</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-87</Legend>
+    <MainColor>54 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-88</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-88</Legend>
+    <MainColor>42 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-89</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-89</Legend>
+    <MainColor>30 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-90</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-90</Legend>
+    <MainColor>24 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-91</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-91</Legend>
+    <MainColor>12 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-92</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-92</Legend>
+    <MainColor>0 254 0</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-93</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-93</Legend>
+    <MainColor>0 254 12</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-94</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-94</Legend>
+    <MainColor>0 254 24</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-95</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-95</Legend>
+    <MainColor>0 254 30</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-96</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-96</Legend>
+    <MainColor>0 254 42</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-97</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-97</Legend>
+    <MainColor>0 254 54</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-98</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-98</Legend>
+    <MainColor>0 254 67</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-99</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-99</Legend>
+    <MainColor>0 254 73</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-100</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-100</Legend>
+    <MainColor>0 254 85</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-101</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-101</Legend>
+    <MainColor>0 254 97</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-102</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-102</Legend>
+    <MainColor>0 254 109</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-103</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-103</Legend>
+    <MainColor>0 254 115</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-104</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-104</Legend>
+    <MainColor>0 254 127</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-105</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-105</Legend>
+    <MainColor>0 254 139</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-106</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-106</Legend>
+    <MainColor>0 254 151</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-107</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-107</Legend>
+    <MainColor>0 254 163</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-108</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-108</Legend>
+    <MainColor>0 254 169</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-109</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-109</Legend>
+    <MainColor>0 254 181</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-110</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-110</Legend>
+    <MainColor>0 254 194</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-111</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-111</Legend>
+    <MainColor>0 254 206</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-112</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-112</Legend>
+    <MainColor>0 254 212</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-113</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-113</Legend>
+    <MainColor>0 254 224</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-114</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-114</Legend>
+    <MainColor>0 254 236</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-115</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-115</Legend>
+    <MainColor>0 254 248</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-116</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-116</Legend>
+    <MainColor>0 254 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-117</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-117</Legend>
+    <MainColor>0 248 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-118</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-118</Legend>
+    <MainColor>0 236 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-119</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-119</Legend>
+    <MainColor>0 224 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-120</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-120</Legend>
+    <MainColor>0 212 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-121</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-121</Legend>
+    <MainColor>0 206 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-122</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-122</Legend>
+    <MainColor>0 194 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-123</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-123</Legend>
+    <MainColor>0 181 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-124</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-124</Legend>
+    <MainColor>0 169 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-125</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-125</Legend>
+    <MainColor>0 163 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-126</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-126</Legend>
+    <MainColor>0 151 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-127</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-127</Legend>
+    <MainColor>0 139 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-128</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-128</Legend>
+    <MainColor>0 127 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-129</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-129</Legend>
+    <MainColor>0 115 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-130</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-130</Legend>
+    <MainColor>0 109 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-131</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-131</Legend>
+    <MainColor>0 97 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-132</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-132</Legend>
+    <MainColor>0 85 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-133</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-133</Legend>
+    <MainColor>0 73 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-134</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-134</Legend>
+    <MainColor>0 67 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-135</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-135</Legend>
+    <MainColor>0 54 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-136</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-136</Legend>
+    <MainColor>0 42 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-137</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-137</Legend>
+    <MainColor>0 30 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-138</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-138</Legend>
+    <MainColor>0 24 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-139</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-139</Legend>
+    <MainColor>0 12 254</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+   <Item>
+    <Min>-140</Min>
+    <Legend>SS-RSRP Level (DL) (dBm) &gt;=-140</Legend>
+    <MainColor>0 0 255</MainColor>
+    <SecondaryColor>0 0 0</SecondaryColor>
+    <LineStyle>5</LineStyle>
+    <LineWidth>15</LineWidth>
+    <FillStyle>1</FillStyle>
+   </Item>
+  </Items>
+  <DataTips>
+   <Item>c0000000</Item>
+   <FieldDesc>
+    <FieldId>c0000000</FieldId>
+    <FieldTitle>Prediction name</FieldTitle>
+   </FieldDesc>
+   <Item>c0000001</Item>
+   <FieldDesc>
+    <FieldId>c0000001</FieldId>
+    <FieldTitle>Legend</FieldTitle>
+   </FieldDesc>
+  </DataTips>
+ </Display>
+ <AddToLegend>1</AddToLegend>
+ <CurrentVersion>34</CurrentVersion>
+ <Resolution>50</Resolution>
+ <GUID>{B650ED70-ED42-43C3-99A0-959F32E4A3FC}</GUID>
+ <LockedStudy>0</LockedStudy>
+ <ComputeHisto>1</ComputeHisto>
+ <HistoPerTx>0</HistoPerTx>
+ <HistoLabel></HistoLabel>
+ <Network>5G</Network>
+ <MDTs>
+  <UseMdt>0</UseMdt>
+  <TuningType>1</TuningType>
+  <PostProcessing>0</PostProcessing>
+  <MinCount>4</MinCount>
+  <FillHoleOption>0</FillHoleOption>
+  <DistanceMax>200</DistanceMax>
+  <MdtItems></MdtItems>
+ </MDTs>
+ <Conditions>
+  <Type>2048</Type>
+  <Terminal>5G Smartphone</Terminal>
+  <Mobility>50 km/h</Mobility>
+  <Service>Broadband</Service>
+  <Layer></Layer>
+  <Channel></Channel>
+  <Server>-1</Server>
+  <Reliability>0.75</Reliability>
+  <ReliabilityType>0</ReliabilityType>
+  <Indoor>0</Indoor>
+  <WithShadowing>0</WithShadowing>
+  <TXsClustering>0</TXsClustering>
+  <BestServerCalcType>266</BestServerCalcType>
+  <WithOverlapMargin>0</WithOverlapMargin>
+  <OverlapMargin>0</OverlapMargin>
+ </Conditions>
+</XG5GNRStudy>

@@ -1,0 +1,13 @@
+!table
+!version 300
+!charset WindowsLatin1
+
+Definition Table
+  File "map 1.grd"
+  Type "RASTER"
+  (97.250227, 5.249773) (0, 0) Label "NW",
+  (97.250227, 4.750584) (0, 1100) Label "SW",
+  (97.749416, 5.249773) (1100, 0) Label "NE",
+  (97.749416, 4.750584) (1100, 1100) Label "SE"
+  CoordSys Earth Projection 8, 104, "m", 99, 0, 0.9996, 500000, 0
+  Units "m"
